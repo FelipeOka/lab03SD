@@ -3,7 +3,7 @@
 ## Alunos:
 - Fabio Augusto Schiavi Morpanini | RA: 22.121.094-1
 - Felipe de Campos Oka            | RA: 22.121.001-6
-- 
+
 ## Evidência da execução do código:
 
 <div align="center">
