@@ -1,9 +1,9 @@
 # Atividade de Laboratório 3 - CC7261 - Sistemas Distribuídos
 
 ## Alunos:
-Fabio Augusto Schiavi Morpanini
-Felipe de Campos Oka
-
+- Fabio Augusto Schiavi Morpanini | RA: 22.121.094-1
+- Felipe de Campos Oka            | RA: 22.121.001-6
+- 
 ## Evidência da execução do código:
 
 <div align="center">
